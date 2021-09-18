@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Menu
+comment1.params=myMenu\ planet
+comment1.target=Menu(Alien,\ java.lang.String)
+comment2.params=
+comment2.target=greenfoot.Actor\ getMenu()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=x
+comment4.target=void\ display_text_if_correct(java.lang.String)
+comment5.params=x
+comment5.target=void\ write(java.lang.String)
+comment6.params=x\ y
+comment6.target=void\ write_string(java.lang.String[],\ int)
+numComments=7
